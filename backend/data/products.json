@@ -1,0 +1,136 @@
+[
+    {
+        "name": "Elegant Evening Gown",
+        "price": 300.55,
+        "description": "An elegant evening gown that will make you the center of attention.",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            }
+        ],
+        "category": "Dress",
+        "stock":12
+        
+    },
+    {
+        "name": "Casual Top - yellow",
+        "price": 250.75,
+        "description": "A comfortable kurti dress for everyday wear.",
+        "ratings": 3.8,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Dress",
+        "stock":5
+    },
+    {
+        "name": "Festive Kurtas Set",
+        "description": "This kurtas dress most comfortable for festive season",
+        "sizes": ["S","L", "XL"],
+        "price": 800.50,
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Dress",
+        "stock":9
+    },
+    {
+        "name": "Casual Top - blue",
+        "price": 340.55,
+        "description": "A comfortable kurti dress for everyday wear.",
+        "ratings": 3.3,
+        "images": [
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Dress",
+        "stock":14
+    },
+    {
+        "name": "Maxi Dress",
+        "price": 1000.00,
+        "description": "An elegant maxi dress that will make you the center of attention.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Dress",
+        "stock":4
+    },
+    {
+        "name": "Casual Kurtas",
+        "price": 900.40,
+        "description": "Most comfortable office wear dress",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/6.jpg"
+            }
+        ],
+        "category": "Dress",
+        "stock":8
+    },
+    {
+        "name": "Casual Gown",
+        "price": 700.55,
+        "description": "A casual gown that will make you the center of attention.",
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/images/products/7.jpg"
+            }
+        ],
+        "category": "Dress",
+        "stock":16
+    },
+    {
+        "name": "Stylish Kurtas",
+        "price": 1200.55,
+        "description": "A stylish kurtas for everyday office wear",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "/images/products/8.jpg"
+            }
+        ],
+        "category" :"Dress",
+        "stock":20
+    },
+    {
+        "name": "Floral Maxi Dress",
+        "price": 950.85,
+        "description": "A beautiful floral maxi dress perfect for summer outings.",
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/9.jpg"
+            }
+        ], 
+        "category": "Dress",
+        "stock":10
+    },
+    {
+        "name": "Summer Sundress",
+        "price": 1000.55,
+        "description": "A lightweight sundress perfect for beach days",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/images/products/10.jpg"
+            }
+        ],
+        "category": "Dress",
+        "stock":7
+    }
+    
+    
+]
